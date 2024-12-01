@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\mrsta\\source\\repos\\BLL\\BLL.csproj": {}
+    "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "E:\\Users\\mrsta\\source\\repos\\BLL\\BLL.csproj": {
+    "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\mrsta\\source\\repos\\BLL\\BLL.csproj",
+        "projectUniqueName": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "E:\\Users\\mrsta\\source\\repos\\BLL\\BLL.csproj",
+        "projectPath": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\mrsta\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\mrsta\\source\\repos\\BLL\\obj\\",
+        "outputPath": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\Users\\mrsta\\source\\repos\\DAL\\DAL.csproj": {
-                "projectPath": "E:\\Users\\mrsta\\source\\repos\\DAL\\DAL.csproj"
+              "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\DAL.csproj": {
+                "projectPath": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\DAL.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "E:\\Users\\mrsta\\source\\repos\\DAL\\DAL.csproj": {
+    "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\mrsta\\source\\repos\\DAL\\DAL.csproj",
+        "projectUniqueName": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "E:\\Users\\mrsta\\source\\repos\\DAL\\DAL.csproj",
+        "projectPath": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\mrsta\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\mrsta\\source\\repos\\DAL\\obj\\",
+        "outputPath": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

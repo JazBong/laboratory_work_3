@@ -544,11 +544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\mrsta\\source\\repos\\DAL\\DAL.csproj",
+      "projectUniqueName": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "E:\\Users\\mrsta\\source\\repos\\DAL\\DAL.csproj",
+      "projectPath": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\mrsta\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\mrsta\\source\\repos\\DAL\\obj\\",
+      "outputPath": "E:\\Users\\mrsta\\source\\repos\\ConsoleApp5\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
