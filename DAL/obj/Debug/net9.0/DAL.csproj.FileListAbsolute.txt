@@ -1,0 +1,12 @@
+E:\Users\mrsta\source\repos\DAL\bin\Debug\net9.0\DAL.deps.json
+E:\Users\mrsta\source\repos\DAL\bin\Debug\net9.0\DAL.dll
+E:\Users\mrsta\source\repos\DAL\bin\Debug\net9.0\DAL.pdb
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\DAL.dll
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\refint\DAL.dll
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\DAL.pdb
+E:\Users\mrsta\source\repos\DAL\obj\Debug\net9.0\ref\DAL.dll
